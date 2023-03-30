@@ -1,3 +1,4 @@
+
 ---
 layout: about
 permalink: /
@@ -7,7 +8,8 @@ profile:
 published: true
 ---
 
-Amazon SDE Intern, Austin TX
+Amazon Software Development Engineer, Austin TX
 
-
-
+# Oura Ring Scores
+- Sleep Score: 0
+- Readiness Score:0 
