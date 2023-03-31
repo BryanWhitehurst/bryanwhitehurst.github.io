@@ -9,6 +9,7 @@ published: true
 
 Amazon Software Development Engineer, Austin TX
 
-# Oura Ring Scores
-- Sleep Score: 75
-- Readiness Score: 76 
+# Scores for 2023-03-31
+- Sleep Score: 65
+- Readiness Score: 66 
+- Total Sleep Duration: 7 hours and 42 minutes
