@@ -11,4 +11,4 @@ Amazon Software Development Engineer, Austin TX
 
 # Oura Ring Scores
 - Sleep Score: 75
-- Readiness Score:76 
+- Readiness Score: 76 
