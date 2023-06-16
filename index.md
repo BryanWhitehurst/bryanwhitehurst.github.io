@@ -10,7 +10,7 @@ published: true
 Amazon Software Development Engineer, Austin TX
 
 # How did I sleep last night? 
-### 2023-06-15
-- Sleep Score: 82 / 100
-- Readiness Score: 79 / 100 
-- Total Sleep Duration: 7 hours and 43 minutes
+### 2023-06-16
+- Sleep Score: 83 / 100
+- Readiness Score: 71 / 100 
+- Total Sleep Duration: 7 hours and 50 minutes
